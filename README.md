@@ -2,7 +2,11 @@
 
 Imagetron is a web app which fetch data(images) from Unsplash API and show in the app.
 
-## Here are some pictures of the app.
+
+## Link for the deployed website is here :- 
+https://imagetron.netlify.app
+
+### Here are some pictures of the app.
 
 
 ![First landing with random images](<Screenshot 2023-07-22 at 11.43.25 PM.png>)
